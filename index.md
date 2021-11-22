@@ -1,7 +1,7 @@
-## Welcome to GitHub Pages
 
 
-#SUBDOMAIN TAKEOVER BY BALA
+
+# SUBDOMAIN TAKEOVER BY BALA
 
 
 
